@@ -10,6 +10,6 @@ Quick setup
    git add .
    git commit -m "first commit"
    git branch -M main
-   git remote add origin https://github.com/your_name/repository_name
+   git remote add origin https://github.com/MichaelKilunga/ticket_app.git
    push -u origin main
    clear
