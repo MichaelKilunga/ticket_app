@@ -1,5 +1,5 @@
 # ticket_app
-ticket app flutter projects
+ticket app flutter project
 
 Quick setup
 1. install VS Code or Android studio (for windows or linux users) xcode for macOS users.
@@ -12,3 +12,4 @@ Quick setup
    git branch -M main
    git remote add origin https://github.com/your_name/repository_name
    push -u origin main
+   clear
